@@ -25,7 +25,7 @@ h1{
     background-color: rgb(56, 56, 54);
     font-size:60px;
     text-align:center;
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Josefin Sans', sans-serif;
     
 }
 
@@ -134,8 +134,7 @@ width:100%;
     background-color: rgb(56, 56, 54);
     font-size:60px;
     text-align:center;
-    font-family: 'Shadows Into Light', cursive;
-}
+    font-family: 'Josefin Sans', sans-serif;}
 .notes2{
     background-color: rgb(138, 130, 138);
 width:100%;
